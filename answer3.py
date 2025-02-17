@@ -29,7 +29,7 @@ while True:
 
 #     def send_email(subject,body, to_email):
 #         from_email = "viransh.bhardwaj@cloudkeeper.com"
-#         from_password = "vlitnqccszqlnhle"
+#         from_password = ""
 
 #         msg = MIMEMultipart()
 #         msg['From'] = from_email
